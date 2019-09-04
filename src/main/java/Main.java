@@ -19,7 +19,7 @@ public class Main {
         * port  -- this is the port database use : 1521
         * xe    -- database service name
         * */
-        String connection_str = "jdbc:oracle:thin:@18.206.235.47:1521:xe"; // replace ip with your ip
+        String connection_str = "jdbc:oracle:thin:@52.207.209.148:1521:xe"; // replace ip with your ip
         String db_user     = "hr";
         String db_password = "hr";
         // creating Connection object
@@ -34,11 +34,23 @@ public class Main {
         //Statement stmt = conn.createStatement(ResultSet.TYPE_SCROLL_INSENSITIVE,ResultSet.CONCUR_READ_ONLY);
 
         // use Statement Object to run query and store the result in ResultSet object
-        ResultSet rs = stmt.executeQuery("SELECT * FROM REGIONS");
+        ResultSet rs = stmt.executeQuery("SELECT * FROM COUNTRies");
         // initially the cursor is at right before first row, next() method will move it to first row
-        rs.next();
-        // printing out the Region_Name column value at first row
-        System.out.println(rs.getObject("Region_Name"));
+//        rs.next();
+//        rs.next();
+//        // printing out the Region_Name column value at first row
+//        System.out.println(rs.getObject("Region_Name"));
+//        System.out.println(rs.getObject("Region_id"));
+
+
+
+        while(rs.next()){
+
+            System.out.println(rs.getObject("Country_id")+" "+
+                               rs.getObject("Country_Name")+" "+
+                               rs.getObject("Region_id"));
+        }
+
 
 
     }
