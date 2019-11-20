@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="JDBC_starter" target="8" />
+      <module name="JDBC_starter" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
