@@ -16,12 +16,16 @@ public class Experian {
 
     public static void main(String[] args) {
 
-        name = "Ashe Schow";
+        name = "Richard Lawler";
 
         Experian experian = new Experian();
-        System.out.println(experian.returningTitle(name));
+       // System.out.println(experian.returningTitle(name));
       //  System.out.println(experian.returningAuthor());
-        experian.UnitTestsForMethod1ANDMethod2();
+         experian.UnitTestsForMethod1ANDMethod2();
+
+        System.out.println(experian.getListOfHeadline());
+        //System.out.println(experian.returningAuthor());
+
     }
 
     public List<Headline> getListOfHeadline(){
@@ -31,6 +35,8 @@ public class Experian {
                 .queryParam("category", "business")
                 .queryParam("pageSize", 100)
                 .queryParam("apiKey", "c0feb0bc81c74e9284814912f6ccaa4a").get("");
+
+
 
         List<Headline> headlines = result.jsonPath().getList("articles", Headline.class);
         return headlines;
@@ -76,10 +82,10 @@ public class Experian {
     //Unit Tests for Method1 and Method2
     public void UnitTestsForMethod1ANDMethod2(){
         List<String> listOfMethod1 = returningTitle(name);
-        Assert.assertTrue("Method1 FAIL", listOfMethod1.contains("Media Reports On Keystone Pipeline Leak. Here's What You Need To Know. - The Daily Wire"));
+        Assert.assertTrue("Method1 FAIL", listOfMethod1.contains("Elon Musk took Tesla's Cybertruck for a weekend drive around LA - Engadget"));
 
         List<String> listOfMethod2 = returningAuthor();
-        Assert.assertTrue("Method2 FAIL", listOfMethod2.contains("Ashe Schow"));
+        Assert.assertTrue("Method2 FAIL", listOfMethod2.contains("Richard Lawler"));
 
     }
 

@@ -2,107 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0c30733-e57a-4024-b85b-f233535681ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_fge_btf_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_fge_msg_simple_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_fge_uri_template_0_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_java_json_tools_jackson_coreutils_1_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_java_json_tools_json_schema_core_1_2_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_java_json_tools_json_schema_validator_2_2_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_javafaker_javafaker_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_mifmif_generex_1_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_16_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_libphonenumber_libphonenumber_8_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_osgi_2_3_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dk_brics_automaton_automaton_1_11_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_core_4_7_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_expressions_7_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_java_4_7_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_junit_4_7_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_datatable_1_1_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_datatable_dependencies_1_1_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_gherkin_5_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_tag_expressions_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_json_path_4_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_json_schema_validator_4_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_rest_assured_4_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_rest_assured_common_4_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_xml_path_4_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_mail_mailapi_1_4_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_9_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_5_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_sling_org_apache_sling_javax_activation_0_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ccil_cowan_tagsoup_tagsoup_1_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_2_5_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_json_2_5_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_xml_2_5_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mozilla_rhino_1_7_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_android_1_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JDBC/DB_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JDBC/EnumPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JDBC/JDBC_PreparedStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JDBC/MetaData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JDBC/Season.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JDBC/Util_Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/ConfigurationReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/DBType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/DBUtility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/java/ExperianProject/Experian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/java/ExperianProject/Headline.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/java/RestPractice/BookIt_With_Bearer_Token.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/java/RestPractice/DeserializingJson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/java/RestPractice/Full_Cycle_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/java/RestPractice/Google.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/java/RestPractice/HR_ORDS_REST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/java/RestPractice/HamCrestLibrary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/java/RestPractice/InterviewQuestion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/java/RestPractice/JsonSchemaValidation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/java/RestPractice/RestPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/java/RestPractice/Rest_API_SUNDAY.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/java/RestPractice/Rest_Weekend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/java/RestPractice/RoleBasedAccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/java/RestPractice/SendingPostRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/java/RestPractice/Spartan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/java/RestPractice/Spartan_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/java/RestPractice/TestBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/java/cucumbers/CukesRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/java/step_definitions/MyStepdefs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/resources/SearchResultSchema.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/resources/SingleSpartanSchema.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/resources/SpartanArraySchema.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/resources/data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/resources/features/getSingleSpartan.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/resources/generatedSchema.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/resources/scenarios.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/JDBC_starter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JDBC_starter.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JDBC/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JDBC/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JDBC/Main3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Main2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Main3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/java/ExperianProject/Experian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/java/ExperianProject/Experian.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -117,91 +18,91 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/java/cucumbers/CukesRunner.java">
+        <entry file="file://$PROJECT_DIR$/src/main/test/java/ExperianProject/Headline.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/java/RestPractice/BookIt_With_Bearer_Token.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="412">
-              <caret line="31" column="28" lean-forward="true" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/java/RestPractice/RestPractice.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/java/RestPractice/RoleBasedAccess.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="59" column="9" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
+            <state relative-caret-position="323">
+              <caret line="36" column="27" lean-forward="true" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/test/java/RestPractice/SendingPostRequest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/test/java/ExperianProject/Experian.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="68" column="37" lean-forward="true" selection-start-line="68" selection-start-column="37" selection-end-line="68" selection-end-column="37" />
+            <state relative-caret-position="315">
+              <caret line="21" column="60" lean-forward="true" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/java/RestPractice/Rest_API_SUNDAY.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="49" selection-start-line="49" selection-end-line="49" />
+            <state relative-caret-position="304">
+              <caret line="35" column="35" lean-forward="true" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/java/RestPractice/InterviewQuestion.java">
+        <entry file="file://$PROJECT_DIR$/src/main/test/resources/data.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="611">
-              <caret line="50" column="56" lean-forward="true" selection-start-line="50" selection-start-column="56" selection-end-line="50" selection-end-column="56" />
+            <state relative-caret-position="60">
+              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/java/RestPractice/TestBase.java">
+        <entry file="file://$PROJECT_DIR$/configuration.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="225">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/java/RestPractice/Spartan_Test.java">
+        <entry file="file://$PROJECT_DIR$/src/main/test/resources/generatedSchema.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="536">
-              <caret line="144" column="46" selection-start-line="144" selection-start-column="46" selection-end-line="144" selection-end-column="57" />
+            <state relative-caret-position="270">
+              <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/java/RestPractice/Spartan.java">
+        <entry file="file://$PROJECT_DIR$/src/main/test/resources/SearchResultSchema.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="723">
-              <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+            <state relative-caret-position="1875">
+              <caret line="125" column="23" lean-forward="true" selection-start-line="125" selection-start-column="23" selection-end-line="125" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/resources/SingleSpartanSchema.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/resources/SpartanArraySchema.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/java/RestPractice/JsonSchemaValidation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="535">
+              <caret line="68" column="84" lean-forward="true" selection-start-line="68" selection-start-column="84" selection-end-line="68" selection-end-column="84" />
             </state>
           </provider>
         </entry>
@@ -266,10 +167,10 @@
         <option value="$PROJECT_DIR$/src/main/test/java/RestPractice/RoleBasedAccess.java" />
         <option value="$PROJECT_DIR$/src/main/test/java/RestPractice/DeserializingJson.java" />
         <option value="$PROJECT_DIR$/src/main/test/java/ExperianProject/Healine.java" />
-        <option value="$PROJECT_DIR$/src/main/test/java/ExperianProject/Experian.java" />
         <option value="$PROJECT_DIR$/src/main/test/java/ExperianProject/Headline.java" />
         <option value="$PROJECT_DIR$/src/main/java/utils/ConfigurationReader.java" />
         <option value="$PROJECT_DIR$/src/main/test/java/RestPractice/InterviewQuestion.java" />
+        <option value="$PROJECT_DIR$/src/main/test/java/ExperianProject/Experian.java" />
       </list>
     </option>
   </component>
@@ -309,7 +210,7 @@
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="808" />
+    <option name="height" value="813" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -319,6 +220,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="CatdeaLogs" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -428,22 +330,16 @@
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="features" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="JDBC_starter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JDBC_starter" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="CatdeaLogs" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574044667288" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575964230571" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -467,7 +363,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.InterviewQuestion.test">
+  <component name="RunManager" selected="Application.Experian">
     <configuration name="Experian" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExperianProject.Experian" />
       <module name="JDBC_starter" />
@@ -497,36 +393,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterviewQuestion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JDBC_starter" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="RestPractice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="RestPractice" />
-      <option name="MAIN_CLASS_NAME" value="RestPractice.InterviewQuestion" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InterviewQuestion.setResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JDBC_starter" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="RestPractice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="RestPractice" />
-      <option name="MAIN_CLASS_NAME" value="RestPractice.InterviewQuestion" />
-      <option name="METHOD_NAME" value="setResult" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="InterviewQuestion.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JDBC_starter" />
       <extension name="coverage">
@@ -543,13 +409,43 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="JsonSchemaValidation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JDBC_starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RestPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="RestPractice" />
+      <option name="MAIN_CLASS_NAME" value="RestPractice.JsonSchemaValidation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsonSchemaValidation.AllSpartanResponse_JsonSchema_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JDBC_starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RestPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="RestPractice" />
+      <option name="MAIN_CLASS_NAME" value="RestPractice.JsonSchemaValidation" />
+      <option name="METHOD_NAME" value="AllSpartanResponse_JsonSchema_Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.InterviewQuestion.test" />
         <item itemvalue="Application.Experian" />
+        <item itemvalue="JUnit.JsonSchemaValidation.AllSpartanResponse_JsonSchema_Test" />
+        <item itemvalue="JUnit.JsonSchemaValidation" />
+        <item itemvalue="JUnit.InterviewQuestion.test" />
         <item itemvalue="JUnit.Experian.returningTitleWithExceptionHandling" />
-        <item itemvalue="JUnit.InterviewQuestion.setResult" />
-        <item itemvalue="JUnit.InterviewQuestion" />
       </list>
     </recent_temporary>
   </component>
@@ -564,15 +460,17 @@
       <option name="presentableId" value="Default" />
       <updated>1567553075479</updated>
     </task>
+    <task id="LOCAL-00001" summary="Last Commit">
+      <created>1574223789054</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574223789054</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="InterviewQuestion_test - 2019.10.12 at 01h 01m 01s.xml">
-      <configuration name="InterviewQuestion.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="InterviewQuestion_test - 2019.10.12 at 01h 01m 42s.xml">
-      <configuration name="InterviewQuestion.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="InterviewQuestion_test - 2019.10.12 at 01h 02m 34s.xml">
       <configuration name="InterviewQuestion.test" configurationId="JUnit" />
     </history-entry>
@@ -597,6 +495,12 @@
     <history-entry file="InterviewQuestion_test - 2019.11.14 at 21h 24m 20s.xml">
       <configuration name="InterviewQuestion.test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="JsonSchemaValidation - 2019.12.09 at 22h 21m 11s.xml">
+      <configuration name="JsonSchemaValidation" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JsonSchemaValidation_AllSpartanResponse_JsonSchema_Test - 2019.12.09 at 22h 24m 11s.xml">
+      <configuration name="JsonSchemaValidation.AllSpartanResponse_JsonSchema_Test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -607,10 +511,10 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.36051503" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.21959943" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.30120483" />
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5028612" side_tool="true" weight="0.28433734" />
       <window_info anchor="bottom" id="Messages" order="3" weight="0.28313252" />
       <window_info anchor="bottom" id="Message" order="4" />
@@ -629,6 +533,10 @@
       <window_info anchor="right" id="Ant Build" order="6" weight="0.24964234" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Last Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Last Commit" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -725,48 +633,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/resources/scenarios.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="709">
-          <caret line="67" column="42" lean-forward="true" selection-start-line="67" selection-start-column="42" selection-end-line="67" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="29" column="36" lean-forward="true" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/resources/data.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/resources/generatedSchema.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/resources/SearchResultSchema.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/resources/SpartanArraySchema.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/java/RestPractice/Rest_Weekend.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1605">
@@ -831,27 +697,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/configuration.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/java/step_definitions/MyStepdefs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="12" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/java/RestPractice/JsonSchemaValidation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="6" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/java/RestPractice/HR_ORDS_REST.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="870">
@@ -880,41 +725,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/resources/SingleSpartanSchema.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/resources/features/getSingleSpartan.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/java/ExperianProject/Experian.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="78" selection-start-line="78" selection-end-line="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/java/ExperianProject/Headline.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="27" lean-forward="true" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/java/cucumbers/CukesRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/java/RestPractice/BookIt_With_Bearer_Token.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="412">
@@ -922,31 +732,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/java/RestPractice/Spartan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/java/RestPractice/RestPractice.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
-          <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/java/RestPractice/RoleBasedAccess.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
+        <state relative-caret-position="885">
           <caret line="59" column="9" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/java/RestPractice/SendingPostRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1335">
+          <caret line="89" column="32" selection-start-line="89" selection-start-column="32" selection-end-line="89" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/java/RestPractice/Rest_API_SUNDAY.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
+        <state relative-caret-position="735">
           <caret line="49" selection-start-line="49" selection-end-line="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/java/RestPractice/InterviewQuestion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="611">
-          <caret line="50" column="56" lean-forward="true" selection-start-line="50" selection-start-column="56" selection-end-line="50" selection-end-column="56" />
+        <state relative-caret-position="750">
+          <caret line="50" column="56" selection-start-line="50" selection-start-column="56" selection-end-line="50" selection-end-column="56" />
         </state>
       </provider>
     </entry>
@@ -959,22 +783,106 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/java/RestPractice/Spartan_Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="536">
-          <caret line="144" column="46" selection-start-line="144" selection-start-column="46" selection-end-line="144" selection-end-column="57" />
+        <state relative-caret-position="2010">
+          <caret line="134" selection-start-line="134" selection-end-line="134" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/java/RestPractice/Spartan.java">
+    <entry file="file://$PROJECT_DIR$/src/main/test/java/cucumbers/CukesRunner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="723">
-          <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+        <state relative-caret-position="135">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/java/RestPractice/SendingPostRequest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/test/java/step_definitions/MyStepdefs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="68" column="37" lean-forward="true" selection-start-line="68" selection-start-column="37" selection-end-line="68" selection-end-column="37" />
+        <state relative-caret-position="320">
+          <caret line="32" column="29" lean-forward="true" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/resources/features/getSingleSpartan.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="33" lean-forward="true" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/resources/scenarios.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1005">
+          <caret line="67" column="42" lean-forward="true" selection-start-line="67" selection-start-column="42" selection-end-line="67" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/resources/SingleSpartanSchema.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configuration.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/resources/SpartanArraySchema.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/resources/SearchResultSchema.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1875">
+          <caret line="125" column="23" lean-forward="true" selection-start-line="125" selection-start-column="23" selection-end-line="125" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/resources/generatedSchema.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/resources/data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/java/RestPractice/JsonSchemaValidation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="68" column="84" lean-forward="true" selection-start-line="68" selection-start-column="84" selection-end-line="68" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="35" column="35" lean-forward="true" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/java/ExperianProject/Headline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="36" column="27" lean-forward="true" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/java/ExperianProject/Experian.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="60" lean-forward="true" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
         </state>
       </provider>
     </entry>
